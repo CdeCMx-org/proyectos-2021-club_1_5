@@ -8,11 +8,16 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+En nuestro proyecto pretendemos crear un nuevo tipo de celdas, los cuales usen bacterias para mejorar la eficacia de estas mismas, ya que la viabilidad de las placas con células  fotovoltaicasmuchas veces se ve comprometida en zonas  con escasa radiación solar. Y esto cambiaría con nuestro proyecto ya que las bacterias demostraron en pruebas de laboratorio ser más eficientes que las plantas absorbiendo energía. Los microorganismos podrían resultar eficaces en la producción barata de electricidad en áreas rurales o en países en desarrollo. Esto se ve ampliamente relacionado con los objetivos del desarrollo sustentable debido a que dia con dia conforme la población va aumentando, las necesidades de estos mismos se elevan de la misma forma, razón por la cual debemos de buscar diversas alternativas las cuales puedan cubrir las neccesidades de la población y al mismo tiempo genere las menores emisiones contaminantes posibles.
+
+Se han realizado investigaciones anteriores en esta área, en las cuales se había intentado extraer los tintes para aplicarlos en las placas solares, pero el proceso era costoso y tóxico. Así que los científicos han buscado otro enfoque que se basa en la ingeniería genética. En lugar de extraer los tintes, han programado las bacterias E. coli para que produzcan una mayor cantidad de licopeno, la misma sustancia que es responsable del color rojo de las frutas y verduras.
+
+Tras impregnar el cultivo de bacterias con un mineral que ejerciese de semiconductor, procedieron a extender una capa de la mezcla sobre una superficie de cristal. Posteriormente, comprobaron que las bacterias eran capaces de generar electricidad incluso en condiciones de luminosidad muy reducida, como aquella que llega a nosotros en los días nublados, esto es en gran manera beneficioso ya que puede aumentar el nivel de productividad a diferencia de una celda solar convencional.
+
+Los resultados son extremadamente alentadores, ya que han duplicado la cantidad de electricidad generada, pasando de los 0,362 miliamperios logrados en experimentos anteriores a los 0,686 miliamperios por centímetro cuadrado. Se trata de la mayor corriente eléctrica generada por una célula fotovoltaica biogénica.
+
+Aunque aún es pronto para calcular con exactitud el ahorro que puede suponer la nueva tecnología, los resultados preeliminares proponen que la producción sería barata y sostenible. Además, las aplicaciones de estas placas solares a partir de bacterias vivas podrían extenderse a la minería o la exploración submarina.
+
 
 ### Métodología
 
@@ -42,9 +47,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
 ### Equipo
-
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
-
+Equipo
+*Albornoz Mala Leonel Guillermo
+*Hiram Cabrales Edgar
+*Nuñez Marcial Dulce Maria
+*Patrón Herrera Ana Sofía
