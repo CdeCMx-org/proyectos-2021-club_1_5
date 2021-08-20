@@ -7,16 +7,21 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
+Celdas a base de bacterias fotosintéticas
 
-En nuestro proyecto pretendemos crear un nuevo tipo de celdas, los cuales usen bacterias para mejorar la eficacia de estas mismas, ya que la viabilidad de las placas con células  fotovoltaicasmuchas veces se ve comprometida en zonas  con escasa radiación solar. Y esto cambiaría con nuestro proyecto ya que las bacterias demostraron en pruebas de laboratorio ser más eficientes que las plantas absorbiendo energía. Los microorganismos podrían resultar eficaces en la producción barata de electricidad en áreas rurales o en países en desarrollo. Esto se ve ampliamente relacionado con los objetivos del desarrollo sustentable debido a que dia con dia conforme la población va aumentando, las necesidades de estos mismos se elevan de la misma forma, razón por la cual debemos de buscar diversas alternativas las cuales puedan cubrir las neccesidades de la población y al mismo tiempo genere las menores emisiones contaminantes posibles.
+En nuestro proyecto pretendemos crear un nuevo tipo de celdas, los cuales usen bacterias para mejorar la eficacia de estas mismas, ya que la viabilidad y rendimiento de las placas con células  fotovoltaicas muchas veces se ve comprometida en zonas  con escasa radiación solar, esto cambiaría con nuestro proyecto en el cual se utilizan bacterias, las cuales en pruebas de laboratorio han demostrado ser más eficientes que las plantas absorbiendo energía. Los microorganismos podrían resultar eficaces en la producción barata de electricidad en áreas rurales o en países en desarrollo. Esto se ve ampliamente relacionado con los objetivos del desarrollo sustentable debido a que dia con dia conforme la población va aumentando, las necesidades de estos mismos se elevan de la misma forma, razón por la cual debemos de buscar diversas alternativas las cuales puedan cubrir las neccesidades de la población y al mismo tiempo se disminuyan las emisiones contaminantes.
 
 Se han realizado investigaciones anteriores en esta área, en las cuales se había intentado extraer los tintes para aplicarlos en las placas solares, pero el proceso era costoso y tóxico. Así que los científicos han buscado otro enfoque que se basa en la ingeniería genética. En lugar de extraer los tintes, han programado las bacterias E. coli para que produzcan una mayor cantidad de licopeno, la misma sustancia que es responsable del color rojo de las frutas y verduras.
 
 Tras impregnar el cultivo de bacterias con un mineral que ejerciese de semiconductor, procedieron a extender una capa de la mezcla sobre una superficie de cristal. Posteriormente, comprobaron que las bacterias eran capaces de generar electricidad incluso en condiciones de luminosidad muy reducida, como aquella que llega a nosotros en los días nublados, esto es en gran manera beneficioso ya que puede aumentar el nivel de productividad a diferencia de una celda solar convencional.
 
-Los resultados son extremadamente alentadores, ya que han duplicado la cantidad de electricidad generada, pasando de los 0,362 miliamperios logrados en experimentos anteriores a los 0,686 miliamperios por centímetro cuadrado. Se trata de la mayor corriente eléctrica generada por una célula fotovoltaica biogénica.
+Los resultados han sido en su mayoría positivos, ya que han duplicado la cantidad de electricidad generada, pasando de los 0,362 miliamperios logrados en experimentos anteriores a los 0,686 miliamperios por centímetro cuadrado. Se trata de la mayor corriente eléctrica generada por una célula fotovoltaica biogénica.
 
 Aunque aún es pronto para calcular con exactitud el ahorro que puede suponer la nueva tecnología, los resultados preeliminares proponen que la producción sería barata y sostenible. Además, las aplicaciones de estas placas solares a partir de bacterias vivas podrían extenderse a la minería o la exploración submarina.
+
+La implementación de bacterias para la creación de energía eléctrica es una muy buena alternativa a los combustibles fósiles siendo que con esto se reduce la contaminación y se opta por una energía limpia, lo cual está muy relacionado con el propósito del taller el cual es implementar energías limpias y asequibles para su aprovechamiento,ya que el aprovechamiento de la energía solar puede ser una alternativa para reducir el uso de combustibles fósiles, este tipo de tópicos hemos estado estudiando y analizando a lo largo de las últimas semanas en nuestro club "Implementando la energía solar en tu vida: energía asequible y no contaminante." en el cuál hemos tenido la oportunidad de aprender desde los principios fisicos y químicos básicos en lo que respecta a la producción de energia no contaminante hasta el funcionamiento de celdas solares y alternativas a las mismas (como es el caso de la producción de energía a partir de bacterias) y sus aplicaciones, con el objetivo de implementar nuevas tecnologías no contaminantes. 
+
+
 
 
 ### Métodología
@@ -49,6 +54,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 Equipo
 *Albornoz Mala Leonel Guillermo
-*Hiram Cabrales Edgar
+*Cabrales Edgar Hiram
 *Nuñez Marcial Dulce Maria
 *Patrón Herrera Ana Sofía
