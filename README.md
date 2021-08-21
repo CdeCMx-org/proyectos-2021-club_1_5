@@ -1,10 +1,6 @@
-## Nombre de proyecto
-
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
+## Celdas a base de bacterias fotosintéticas
 
 ### Introducción
-Celdas a base de bacterias fotosintéticas
 
 En nuestro proyecto pretendemos crear un nuevo tipo de celdas, los cuales usen bacterias para mejorar la eficacia de estas mismas, ya que la viabilidad y rendimiento de las placas con células  fotovoltaicas muchas veces se ve comprometida en zonas  con escasa radiación solar, esto cambiaría con nuestro proyecto en el cual se utilizan bacterias, las cuales en pruebas de laboratorio han demostrado ser más eficientes que las plantas absorbiendo energía. Los microorganismos podrían resultar eficaces en la producción barata de electricidad en áreas rurales o en países en desarrollo. Esto se ve ampliamente relacionado con los objetivos del desarrollo sustentable debido a que dia con dia conforme la población va aumentando, las necesidades de estos mismos se elevan de la misma forma, razón por la cual debemos de buscar diversas alternativas las cuales puedan cubrir las neccesidades de la población y al mismo tiempo se disminuyan las emisiones contaminantes.
 
@@ -27,17 +23,21 @@ Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de 
 
 ### Resultados
 
-Para concluir queda claro que el uso de celdas solares a base de bacterias representa una mejoría para el aprovechamiento de la energía solar que el utilizar celdas de silicio, con el paso del tiempo esto significa reducir la cantidad de emisiones de carbono para evitar el calentamiento global producido en el planeta.
+Para concluir queda claro que el uso de celdas solares a base de bacterias representa una mejoría para el aprovechamiento de la energía solar ya que estos tienen un mejor rendimiento que las celdas de silicio, y através de este tipo de innovaciones, con el paso del tiempo se pretende reducir la cantidad de emisiones de carbono para evitar el calentamiento global producido en el planeta.
 
 
-![](![descarga](https://user-images.githubusercontent.com/89160224/130335770-9a87ea5d-bdd6-4284-9e8f-e014a0e53c12.jpg))
+![![descarga](https://user-images.githubusercontent.com/89160224/130335810-e30fd694-d08f-4eb2-b061-56d65f20b25f.jpg)]
+(![descarga](https://user-images.githubusercontent.com/89160224/130335770-9a87ea5d-bdd6-4284-9e8f-e014a0e53c12.jpg))
 
 
 ### Conclusiones
 En estas semanas. hemos tenido la grata oportunidad de formar parte de un club en el cual aprendimos sobre energia solar, sus usos y la forma en la qaue esta fuente de energia no contaminante nos es útil en el dia a dia, muchas veces solemos pensar en que esto es una cuestion hasta cierto punto simple debido a la familiaridad que tenemos con esta fuente de energia, pero esto realmente va m+as allá, debido a que numerosas fuentes fisicas, quimica y tecnologicas influyen en el pormedio, en las últimas semanas hemos sido capaces de tener una perspectiva más amplia respecto a este tema y poder desarrollar ideas al respecto
+![descarga (1)](https://user-images.githubusercontent.com/89160224/130335882-8c75493c-4fc8-4e6e-a3d3-1d3bd29215b6.jpg)
 
 
- <iframe width="560" height="315" src="https://youtu.be/eb95gHlckCw"></iframe>
+### Link del video
+
+"https://youtu.be/eb95gHlckCw"
 
 ### Equipo
 Equipo
