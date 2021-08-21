@@ -32,6 +32,7 @@ Para concluir queda claro que el uso de celdas solares a base de bacterias repre
 
 ### Conclusiones
 En estas semanas. hemos tenido la grata oportunidad de formar parte de un club en el cual aprendimos sobre energia solar, sus usos y la forma en la qaue esta fuente de energia no contaminante nos es útil en el dia a dia, muchas veces solemos pensar en que esto es una cuestion hasta cierto punto simple debido a la familiaridad que tenemos con esta fuente de energia, pero esto realmente va m+as allá, debido a que numerosas fuentes fisicas, quimica y tecnologicas influyen en el pormedio, en las últimas semanas hemos sido capaces de tener una perspectiva más amplia respecto a este tema y poder desarrollar ideas al respecto
+
 ![descarga (1)](https://user-images.githubusercontent.com/89160224/130335882-8c75493c-4fc8-4e6e-a3d3-1d3bd29215b6.jpg)
 
 
