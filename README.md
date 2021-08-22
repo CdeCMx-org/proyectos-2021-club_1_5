@@ -1,6 +1,6 @@
 ## Celdas a base de bacterias fotosintéticas
 
-### Introducción
+### Planteamiento del proyecto
 
 En nuestro proyecto pretendemos crear un nuevo tipo de celdas, los cuales usen bacterias para mejorar la eficacia de estas mismas, ya que la viabilidad y rendimiento de las placas con células  fotovoltaicas muchas veces se ve comprometida en zonas  con escasa radiación solar, esto cambiaría con nuestro proyecto en el cual se utilizan bacterias, las cuales en pruebas de laboratorio han demostrado ser más eficientes que las plantas absorbiendo energía. Los microorganismos podrían resultar eficaces en la producción barata de electricidad en áreas rurales o en países en desarrollo. Esto se ve ampliamente relacionado con los objetivos del desarrollo sustentable debido a que dia con dia conforme la población va aumentando, las necesidades de estos mismos se elevan de la misma forma, razón por la cual debemos de buscar diversas alternativas las cuales puedan cubrir las neccesidades de la población y al mismo tiempo se disminuyan las emisiones contaminantes.
 
@@ -14,12 +14,7 @@ Aunque aún es pronto para calcular con exactitud el ahorro que puede suponer la
 
 La implementación de bacterias para la creación de energía eléctrica es una muy buena alternativa a los combustibles fósiles siendo que con esto se reduce la contaminación y se opta por una energía limpia, lo cual está muy relacionado con el propósito del taller el cual es implementar energías limpias y asequibles para su aprovechamiento,ya que el aprovechamiento de la energía solar puede ser una alternativa para reducir el uso de combustibles fósiles, este tipo de tópicos hemos estado estudiando y analizando a lo largo de las últimas semanas en nuestro club "Implementando la energía solar en tu vida: energía asequible y no contaminante." en el cuál hemos tenido la oportunidad de aprender desde los principios fisicos y químicos básicos en lo que respecta a la producción de energia no contaminante hasta el funcionamiento de celdas solares y alternativas a las mismas (como es el caso de la producción de energía a partir de bacterias) y sus aplicaciones, con el objetivo de implementar nuevas tecnologías no contaminantes. 
 
-
-
-
-### Métodología
-
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+ 
 
 ### Resultados
 
